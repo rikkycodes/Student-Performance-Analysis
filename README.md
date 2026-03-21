@@ -1,2 +1,44 @@
-# Student-Performance-analysis
-The project uses machine learning to analyze and predict student  performance. Categorical features are encoded and missing data is  handled for clean input. Models like Decision Tree, Random Forest  and KNN are trained on historical scores. Predictions and evaluation  metrics (R², MAE, RMSE) help measure model accuracy. 
+🎓 Student Result Analysis & Prediction
+📌 Project Overview
+
+This project analyzes student performance data and builds a machine learning model to predict scores in Math, Reading, and Writing.
+It focuses on identifying how factors like gender, parental education, study hours, and lifestyle impact academic performance.
+
+📂 Dataset
+Dataset used: Expanded_data_with_more_features.csv
+Total records: 30,641 students
+Features include:
+Gender
+Ethnic Group
+Parent Education
+Lunch Type
+Test Preparation
+Weekly Study Hours
+Scores (Math, Reading, Writing)
+
+🧹 Data Preprocessing
+Removed unnecessary column (Unnamed: 0)
+Handled missing values
+Converted categorical data where required
+Checked dataset structure using:
+.info()
+.describe()
+.isnull().sum()
+
+📊 Exploratory Data Analysis (EDA)
+Performed detailed visualization using:
+Seaborn
+Matplotlib
+
+
+📈 Visualizations
+Gender distribution
+Heatmaps of score averages
+Bar plots (Gender vs Scores)
+Correlation heatmap
+
+🎯 Future Improvements
+Try advanced models (Random Forest, XGBoost)
+Hyperparameter tuning
+Feature engineering
+Deploy using Streamlit
