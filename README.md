@@ -38,7 +38,5 @@ Bar plots (Gender vs Scores)
 Correlation heatmap
 
 🎯 Future Improvements
-Try advanced models (Random Forest, XGBoost)
-Hyperparameter tuning
 Feature engineering
 Deploy using Streamlit
