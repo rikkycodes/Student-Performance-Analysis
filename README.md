@@ -1,4 +1,4 @@
-# 🎓 Student Result Analysis & Prediction 📌
+# 🎓 Student Result Analysis & Prediction 
 
 ---
 
