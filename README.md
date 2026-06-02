@@ -1,8 +1,8 @@
-# 🎓 Student Result Analysis & Prediction 
+#  Student Result Analysis & Prediction 
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project analyzes student performance data and builds a machine learning model to predict scores in **Math, Reading, and Writing**.
 
@@ -10,7 +10,7 @@ It focuses on identifying how factors like **gender, parental education, study h
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 **Dataset used:** Expanded_data_with_more_features.csv
 **Total records:** 30,641 students
@@ -27,7 +27,7 @@ It focuses on identifying how factors like **gender, parental education, study h
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 * Removed unnecessary column (**Unnamed: 0**)
 * Handled missing values
 * Converted categorical data where required
@@ -40,7 +40,7 @@ It focuses on identifying how factors like **gender, parental education, study h
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Performed detailed visualization using:
 
@@ -49,7 +49,7 @@ Performed detailed visualization using:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 * Gender distribution
 * Heatmaps of score averages
