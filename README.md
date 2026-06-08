@@ -49,7 +49,7 @@ Performed detailed visualization using:
 
 ---
 
-##  Visualizations
+##  Visualizations:
 
 * Gender distribution
 * Heatmaps of score averages
