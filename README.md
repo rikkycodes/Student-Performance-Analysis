@@ -30,7 +30,7 @@ It focuses on identifying how factors like **gender, parental education, study h
 ##  Data Preprocessing
 * Removed unnecessary column (**Unnamed: 0**)
 * Handled missing values
-* Converted categorical data where required
+* Converted categorical data where required.
 
 ### Checked dataset structure using:
 
